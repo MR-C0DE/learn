@@ -1,0 +1,1 @@
+let paragraphe = document.querySelector('p');
